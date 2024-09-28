@@ -5,8 +5,8 @@ const GalleryPage = () => {
       <div className="py-8">
          <div className="gallery-cover h-[50vh] p-2"> 
       <div className="levels">
-        <h2 className=" text-[16px]">DANGLOBAL PETROLEUM LTD <span className="font-bold">DELIVERS</span></h2>
-        <h4 className=" text-[16px]">Products | Importation | Leasing | Exploration | Labor Providers</h4>
+        <h2 className=" text-[16px]">DANGLOBAL PETROLEUM LTD  <span className="font-bold">DELIVERING</span></h2>
+        <h4 className=" text-[16px]">Products | Importation | Leasing | Exploration | Labor Services</h4>
       </div>
       <div className="one p-0">
         <div className="two unit"><img src="https://media.istockphoto.com/id/155356841/photo/tanker-truck-on-a-highway.jpg?b=1&s=612x612&w=0&k=20&c=efmyl1gHQGFd38WPYxbDmkpxUCjAkcHpQQSysD47ZT4=" alt=""/>

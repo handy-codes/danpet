@@ -1,4 +1,5 @@
 'use client'
+import { MdOutlineMailOutline } from "react-icons/md";
 
 import React from "react";
 import AOS from "aos"
@@ -123,6 +124,10 @@ const FooterPage = () => {
                     <div className="flex items-center gap-3 mt-3">
                       <FaMobileAlt />
                       <p>+2348035741867</p>
+                    </div>
+                    <div className="flex items-center gap-3 mt-3">
+                      <MdOutlineMailOutline />
+                      <p>dan_pet@gmail.com</p>
                     </div>
                   </div>
                 </div>
