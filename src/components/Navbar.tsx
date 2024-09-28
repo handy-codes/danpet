@@ -25,7 +25,7 @@ const NavbarPage = () => {
          <h1>Careers</h1>
       </Link>
     </div>
-    <Mobilenav/>
+    <Mobilenav/>    
    </nav>
  </header>
 );

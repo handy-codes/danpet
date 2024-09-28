@@ -1,11 +1,13 @@
 import Link from "next/link";
 import Slider from "@/app/(dashboard)/_components/slider/Slider";
+import GalleryPage from "./_components/gallery/Gallery";
 
 
 export default function Home() {
   return (
     <main>
       <Slider/>
+      <GalleryPage/>
       <h1>hello world</h1>
       <Link href={'/about'}>
         <div className="">this is link to about page</div>
