@@ -12,8 +12,9 @@ import Link from "next/link";
 
 const Mobilenav = () => {
     return ( 
+      
         <Sheet>
-            <SheetTrigger>
+            <SheetTrigger asChild>
             <div className="sm:hidden">
                 <LuMenu size={40} style={{color:'#E9B92F'}} />
                 </div>

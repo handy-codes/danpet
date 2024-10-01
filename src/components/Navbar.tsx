@@ -11,7 +11,7 @@ const NavbarPage = () => {
     <Image className="rounded-full w-8 h-8 " src={'/danlogo2.png'} width={24} height={24} alt="navlog"/>
       <h1 className="text-xl sm:text-3xl font-bold">Danglobal Petroleum</h1>
     </div>
-    <div className="hidden sm:flex items-center content-center font-bold gap-6 uppercase mr-14 ">
+    <div className="hidden sm:flex items-center content-center gap-6 uppercase mr-14 ">
       <Link  href={'/'}>
          <h1 className="">Home</h1>
       </Link>
