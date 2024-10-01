@@ -59,11 +59,11 @@ const FooterPage = () => {
               <div className="py-8 px-4">
                 <div className="flex gap-5">
                   <Image className="rounded-full w-8 h-8 " src={'/danlogo2.png'} width={24} height={24} alt="ghg"/>
-                  <h1 className="sm:text-2xl text-xl font-bold sm:text-left text-justify mb-3 flex items-center gap-3">
-                     Danglobal Petroleum
+                  <h1 className="sm:text-2xl text-xl font-bold sm:text-left mb-3 flex items-center gap-3">
+                     Danglobal Atlantic Petroleum (Nig.) Ltd.
                   </h1>
                 </div>
-                <p>
+                <p className="pl-11">
                   Redefining Energy!
                 </p>
               </div>    

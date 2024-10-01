@@ -5,7 +5,7 @@ const GalleryPage = () => {
       <div className="py-8">
          <div className="gallery-cover h-[50vh] p-2"> 
       <div className="levels">
-        <h2 className=" text-[16px]">DANGLOBAL PETROLEUM LTD  <span className="font-bold">DELIVERING</span></h2>
+        <h2 className=" text-[16px]">DANGLOBAL ATLANTIC PETROLEUM (NIG.) LTD  <span className="font-bold">DELIVERING</span></h2>
         <h4 className=" text-[16px]">Products | Importation | Leasing | Exploration | Labor Services</h4>
       </div>
       <div className="one p-0">
