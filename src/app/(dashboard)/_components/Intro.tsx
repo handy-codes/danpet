@@ -8,7 +8,7 @@ export default function Intro() {
           <div className=" bg-[#003B65] p-6 w-[90vw] sm:w-[45vw] h-[75vh] flex content-center flex-col items-center">
             <h1 className='text-white text-2xl font-bold sm:text-3xl'>Welcome to the Danglobal Company</h1>
             <p className='text-[#ABBECC] text-justify pt-3 pb-3 text-[18px]'>
-              Danglobal Atlantic Petroleum Ltd is a startup oil & gas conglomerate headquartered in Lagos Nigeria.
+              Danglobal Atlantic Petroleum (Nig.) Ltd is a startup oil & gas conglomerate headquartered in Lagos Nigeria.
               Founded by Engineer Nana Robert Daniel, the company has been exceptional. We have also ventured into 
               haulage, civil engineering and general merchandise.   
             </p>
