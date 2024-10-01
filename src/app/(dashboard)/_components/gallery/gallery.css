@@ -18,10 +18,11 @@
     font-family: Macan, "Helvetica Neue", Helvetica, Arial, sans-serif;;
 }
 
-.levels span{
+.levels .deliver{
     color: #1DBF73;
+    margin-left: 0;
     font-family: "Domaine Display", Domaine Display, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    line-height: 64px;
+    /* line-height: 64px; */
     font-weight: 400;
     font-size: 30px;
     font-style: normal;

@@ -4,9 +4,13 @@ const GalleryPage = () => {
     return ( 
       <div className="py-8">
          <div className="gallery-cover h-[50vh] p-2"> 
-      <div className="levels">
-        <h2 className=" text-[14px]">DANGLOBAL ATLANTIC PETROLEUM (NIG.) LTD  <span className="font-bold">DELIVERING</span></h2>
+      <div className="levels ">
+        <div className="flex flex-col" >
+        <h2 className=" text-[16px] max-sm:ml-0">DANGLOBAL ATLANTIC PETROLEUM (NIG.) LTD</h2>
+        <p className="deliver text-[18px] font-bold max-sm:ml-0 text-[#1DBF73]">DELIVERING</p>
+        {/* <h1 className="font-bold deliver max-sm:ml-0">DELIVERING</h1> */}
         <h4 className=" text-[16px]">Products | Importation | Leasing | Exploration | Labor Services</h4>
+        </div>
       </div>
       <div className="one p-0">
         <div className="two unit"><img src="https://media.istockphoto.com/id/1199749863/photo/retail-gasoline-station-and-convenience-store-reworked.jpg?b=1&s=612x612&w=0&k=20&c=IjBfbwGYFQDwB_CyruOQy4NJ-MjVq96YWnnu8b_jEGk=" alt=""/>
